@@ -6,6 +6,8 @@ function App(){
    <>
     <Title/>
      <Title/>
+      <Title/>
+     <Title/>
    </>
   );
 }
